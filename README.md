@@ -1,1 +1,1 @@
-# bsos233-sp22
+# BSOS 233: Data Science for the Social Sciences Spring 2022
