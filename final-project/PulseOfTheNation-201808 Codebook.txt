@@ -1,0 +1,21 @@
+Variables and Questions
+
+Gender: What gender do you identify with?
+Age: What is your age?
+Race: What is your race? (white, black, latino, asian, other)
+Education: What is your highest level of education? (High school or less, Some college, College degree, Graduate degree)
+Political Affiliation:  In politics today, do you consider yourself a Democrat, a Republican, or Independent?
+Political Leaning: Would you say you are liberal, conservative, or moderate?
+Trump: Do you approve, disapprove, or neither approve nor disapprove of how Donald Trump is handling his job as president? (for "approve" or "disapprove," probe: strongly or somewhat?)
+Finances: How often do you worry about your financial situation? (very often, somewhat often, or not very often)
+Fair Elections:  Going into the 2018 midterm elections, are you confident that votes nationwide will be counted fairly?
+Ranked Choice: Would you support a voting system in which people could choose their first choice candidate, their second choice candidate, their third choice candidate, and so on?
+Woman President: If you had to guess, do you think America will elect a woman president in the next 25 years?
+Universal Healthcare: Do you think Americans will have universal, guaranteed healthcare in the next 25 years?
+Humanity:  If you had to guess, do you think humanity will survive the next hundred years?
+America: What about America? Do you think America will survive the next hundred years?
+Trump Reelection: How likely is it that Donald Trump will be re-elected in 2020? (Very likely, somewhat likely, not at all likely)
+Trump Nuke: How likely is it that Donald Trump will use a nuclear weapon during his time in office? (very likely, somewhat likely, not at all likely)
+War Russia: If you had to guess, do you think America will go to war with Russia in the next 50 years?
+War China: And if you had to guess, do you think America will go to war with China in the next 50 years?
+Next Generation: Do you think your generation will leave behind a better world for the next generation, or a worse world?
